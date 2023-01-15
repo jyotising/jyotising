@@ -7,4 +7,4 @@
 
 
 
-    <p align="left"> <a href="https://twitter.com/jyotidesign_" target="blank"><img src="https://img.shields.io/twitter/follow/jyotidesign_?logo=twitter&style=for-the-badge" alt="jyotidesign_" /></a> </p>
+    <p align="left"> <a href="https://twitter.com/jyotising_nft" target="blank"><img src="https://img.shields.io/twitter/follow/jyotising_nft?logo=twitter&style=for-the-badge" alt="jyotising_nft" /></a> </p>
